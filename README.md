@@ -14,9 +14,13 @@ It is the second time I used OOP other than as a gimmick or part of a tutorial, 
 
 ## How to Use the Code:
 - Just upload the documents to p5.js web editor.
+
 *Or*
+
 - Using LiveServer from VSCode, you can run index.html on your browser.
+
 *Or*
+
 - Whatever works for you.
 
 ## How to Play:
